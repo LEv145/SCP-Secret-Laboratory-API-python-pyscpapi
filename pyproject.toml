@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "pyscpapi"
+version = "1.0.3"
+description = "SCP API for python (https://api.scpslgame.com/)"
+authors = ["LEv145"]
+license = "MIT License"
+
+packages = [
+    { include="Pyscp_Api", from="." },
+]
+
+[tool.poetry.dependencies]
+python = "^3.6"
+ujson = "^4.0.1"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
