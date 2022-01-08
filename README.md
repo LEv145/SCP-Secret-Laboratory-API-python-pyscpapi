@@ -1,5 +1,10 @@
 ## pyscpapi
 
+
+!!The module is not written by me!!
+Author: ꜱʀ.ꜱʜᴇʀᴏʟʟᴅ#6858
+
+
 # Installing
 
 You can get the library directly from PyPI:
